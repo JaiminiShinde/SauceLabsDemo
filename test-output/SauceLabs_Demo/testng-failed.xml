@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [SauceLabs_Demo]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="SauceLabs(failed)">
+    <classes>
+      <class name="SauceLabsMain.SauceLabs_Demo">
+        <methods>
+          <include name="CloseBrowser"/>
+          <include name="LaunchBrowser"/>
+          <include name="SauceLabs"/>
+        </methods>
+      </class> <!-- SauceLabsMain.SauceLabs_Demo -->
+    </classes>
+  </test> <!-- SauceLabs(failed) -->
+</suite> <!-- Failed suite [SauceLabs_Demo] -->

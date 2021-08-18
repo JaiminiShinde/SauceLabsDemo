@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-08-18T22:20:03 IST" name="SauceLabs_Demo" finished-at="2021-08-18T22:21:54 IST" duration-ms="110843">
+    <groups>
+    </groups>
+    <test started-at="2021-08-18T22:20:03 IST" name="SauceLabs" finished-at="2021-08-18T22:21:54 IST" duration-ms="110843">
+      <class name="SauceLabsMain.SauceLabs_Demo">
+        <test-method is-config="true" signature="LaunchBrowser()[pri:0, instance:SauceLabsMain.SauceLabs_Demo@37654521]" started-at="2021-08-18T22:20:03 IST" name="LaunchBrowser" finished-at="2021-08-18T22:20:46 IST" duration-ms="42837" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchBrowser -->
+        <test-method signature="SauceLabs()[pri:0, instance:SauceLabsMain.SauceLabs_Demo@37654521]" started-at="2021-08-18T22:20:46 IST" name="SauceLabs" finished-at="2021-08-18T22:21:52 IST" duration-ms="66433" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SauceLabs -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:SauceLabsMain.SauceLabs_Demo@37654521]" started-at="2021-08-18T22:21:52 IST" name="CloseBrowser" finished-at="2021-08-18T22:21:54 IST" duration-ms="1519" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- SauceLabsMain.SauceLabs_Demo -->
+    </test> <!-- SauceLabs -->
+  </suite> <!-- SauceLabs_Demo -->
+</testng-results>
